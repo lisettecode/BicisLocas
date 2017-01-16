@@ -32,3 +32,6 @@ function validateForm(){
 		alert("Seleccione un tipo de bici por favor");
 	}      
 }
+
+
+//Finalizado
